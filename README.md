@@ -2,8 +2,8 @@
 
 ### 1. Serialization 
 ### 2. Deserialization
-### 3. CRUD function based
-### 4. CRUD Class based
+### 3. CRUD Function Based
+### 4. CRUD Class Based
 ### 5. Validation
 ### 6. Model Serializer
 ### 7. Model Serializer Required
